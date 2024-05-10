@@ -1,0 +1,3 @@
+/home/bakumah/Documents/Personal/Femi/FemiTest/cmake-build-debug/CMakeFiles/FemiTest.dir
+/home/bakumah/Documents/Personal/Femi/FemiTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bakumah/Documents/Personal/Femi/FemiTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
